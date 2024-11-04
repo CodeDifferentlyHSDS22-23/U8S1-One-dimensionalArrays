@@ -1,4 +1,4 @@
-# U7S1 One-dimensional Arrays
+# U8S1 One-dimensional Arrays
 
 * Part A - Foundations 8.1
 * Part B - Foundations Practice
